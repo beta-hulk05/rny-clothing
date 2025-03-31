@@ -1,9 +1,6 @@
 # 🛒 ShopSmart E-commerce
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ecommerce?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ecommerce?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ecommerce)
-![GitHub license](https://img.shields.io/github/license/yourusername/ecommerce)
+
 
 > A modern, responsive, and feature-rich e-commerce platform designed to deliver exceptional shopping experiences.
 
@@ -43,7 +40,7 @@
   - Google OAuth integration
   
 - **Payment Integration**:
-  - Stripe / PayPal
+  - Stripe / RazorPay
   
 - **Deployment**:
   - Frontend: Vercel / Netlify
@@ -162,12 +159,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
+LinkedIn - [@bhavay_batra](https://www.linkedin.com/in/bhavay-batra-34b7a42a5/) - bhavaybatra50@gmail.com
 
-Project Link: [https://github.com/yourusername/ecommerce](https://github.com/yourusername/ecommerce)
+Project Link: [https://github.com/beta-hulk05/ecommerce](https://github.com/beta-hulk05/ecommerce)
 
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/beta-hulk05">Bhavay Batra</a>
 </p>
